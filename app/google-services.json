@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "459004795678",
+    "project_id": "chat-alpha-71d7f",
+    "storage_bucket": "chat-alpha-71d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459004795678:android:ca5be8533d7c89a270870f",
+        "android_client_info": {
+          "package_name": "com.samuelvialle.chatalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459004795678-02u7kse93e1prshaqs1kiie9dn99t9eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WCo-Y9TdqCL26AOMIxUSPLXJILFsrv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459004795678-02u7kse93e1prshaqs1kiie9dn99t9eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459004795678:android:3fe2eda808447fa970870f",
+        "android_client_info": {
+          "package_name": "com.samuelvialle.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459004795678-02u7kse93e1prshaqs1kiie9dn99t9eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WCo-Y9TdqCL26AOMIxUSPLXJILFsrv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459004795678-02u7kse93e1prshaqs1kiie9dn99t9eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
