@@ -16,6 +16,22 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/a0_ic_logo" />
+    
+<!--     TODO    pATRIC V2RIFIE MOI SI 9A MARCHE CE CODE -->
+<!--   j'ai rajouté ce textView en bas qui dit blabla   -->
+      <TextView
+                    android:id="@+id/textView10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="32dp"
+                    android:layout_marginTop="16dp"
+                    android:text="Popular"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/recyclerView" />
+    <!--     TODO    pATRIC V2RIFIE MOI SI 9A MARCHE CE CODE -->
 
     <TextView
         android:id="@+id/tvSplash"
